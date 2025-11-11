@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Peter	peter@peter.com twitter.petter
 
 # THANKS
 
