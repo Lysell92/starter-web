@@ -22,3 +22,5 @@ Please fork this respository and then issue Pull Requests for review.
 ### Copyright
 
 2025 Git.Training. All rights reserved.
+
+## Updates from Dev 1
